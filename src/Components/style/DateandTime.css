@@ -1,0 +1,25 @@
+.dateday {
+    padding: 30px;
+    padding-bottom: 15px;
+  }
+  .date {
+    display: flex;
+    font-size: 30px;
+    padding-right: 2px;
+    padding-left: 0px;
+    font-weight: bold;
+  }
+  .monthandyear {
+      padding-top: 1.5px;
+      margin-left: 2px;
+    font-size: 15px;
+    line-height: 13px;
+    margin-top: 10px;
+    padding-left: 2px;
+  }
+.dayname{
+    font-size: 15px;
+    margin-top: 10px;
+    font-weight: bold;
+    direction: rtl;
+  }

@@ -1,0 +1,7 @@
+.card{
+    border-style: none;
+    height: 290px;
+    max-height: 300px;
+    overflow-x: clip;
+    overflow-y: auto;
+}

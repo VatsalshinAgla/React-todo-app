@@ -1,0 +1,10 @@
+.user{
+
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20px;
+    
+}
+.radiobtn{
+    accent-color: green;  
+}

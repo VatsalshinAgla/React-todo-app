@@ -1,0 +1,19 @@
+.button {
+    /* text-align: center; */
+    /* width: 20%; */
+   
+   /* padding-left: 125px; */
+    /* margin-bottom: 190px; */
+  }
+.plus {
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    color: #04ff96;
+    font-size: 50px;
+    background-color: #1be68e;
+    border: 0px;
+    margin-left: 125px;;
+    position: absolute; 
+   
+  }
